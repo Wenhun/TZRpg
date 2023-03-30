@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 3618641342
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7d777edc31b48deff3aba82edad633dd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fb3e1a51942c252ef5c22332ec2c25b2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/Chara_01.prefab
+- Assets/Prefabs/Chara_00.prefab
+- Assets/Prefabs/Chara_11.prefab
+- Assets/Prefabs/Chara_04.prefab
+- Assets/Prefabs/Chara_15.prefab
+- Assets/Prefabs/Chara_07.prefab
+- Assets/Prefabs/Chara_03.prefab
+- Assets/Prefabs/Chara_12.prefab
+- Assets/Prefabs/Chara_10.prefab
+- Assets/Prefabs/Chara_08.prefab
+- Assets/Prefabs/Chara_05.prefab
+- Assets/Prefabs/Chara_06.prefab
+- Assets/Prefabs/Chara_13.prefab
+- Assets/Prefabs/Chara_09.prefab
+- Assets/Prefabs/Chara_14.prefab
+- Assets/Prefabs/Chara_02.prefab
+Dependencies: []
